@@ -1,7 +1,7 @@
 import sqlite3
 import datetime
 from datetime import date
-from matplotlib import pyplot as plt
+import matplotlib.pyplot as plt
 import docx
 import pandas as pd
 import os
